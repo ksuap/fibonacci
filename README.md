@@ -5,7 +5,7 @@
 Javaで指定した値までのFibonacci数列の各項を出力するプログラムを作成してください．
 Fibonacci数列とは，次の漸化式で求められる数列です．
 
-![recurrence formula](https://latex.codecogs.com/svg.latex?\inline&space;fibonacci(n)&space;=&space;\begin{cases}&space;1&space;&&space;n&space;=&space;1&space;\\&space;1&space;&&space;n&space;=&space;2&space;\\&space;fibonacci(n&space;-&space;1)&space;&plus;&space;fibonacci(n&space;-&space;2)&space;&&space;n&space;>&space;2&space;\end{cases})
+![recurrence formula](https://latex.codecogs.com/svg.latex?%5Cinline%20fibonacci%28n%29%20%3D%20%5Cbegin%7Bcases%7D%201%20%26%20n%20%3D%201%20%5C%5C%201%20%26%20n%20%3D%202%20%5C%5C%20fibonacci%28n%20-%201%29%20&plus;%20fibonacci%28n%20-%202%29%20%26%20n%20%3E%202%20%5Cend%7Bcases%7D)
 
 ## 条件
 
